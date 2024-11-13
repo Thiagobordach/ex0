@@ -1,0 +1,15 @@
+/*Thiago Bordach UY027 005*/
+body		{background-color:#99ccff}
+h1		{color:red; font-family:"Comic Sans MS",cursive,sans-serif; font-size:24pt;text-align:center}
+h2		{color:red; font-family:"Comic Sans MS",cursive,sans-serif; font-size:18pt;text-align:center}
+h3		{color:red; font-family:"Comic Sans MS",cursive,sans-serif; font-size:14pt;text-align:right}
+
+table, td{
+	border-color: #00022FF;
+	border-style: solid;
+	border-collapse: collapse;
+	border-width: 2PX;
+}
+td{
+	padding:10px;
+}
